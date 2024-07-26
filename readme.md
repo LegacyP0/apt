@@ -1,7 +1,3 @@
-Here is a `README.md` description for your GitHub repository, translated into English:
-
----
-
 # iOS Legacy Tweaks Repository
 
 Originally created to fix WeeLoaderPreference for using Lockinfo on iOS 6, this repository now also includes important and hard-to-find tweaks from the iOS 3/4/5/6 era. Sometimes these tweaks come from pirate sources, but it is impossible to pay for them today as the developers have either disappeared or no longer respond to requests. Thanks, ModMyi!
